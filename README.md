@@ -1,8 +1,3 @@
-# RAPL-Web-Testing-Automation
-
-Perfect! The README I wrote is already in **Markdown (`.md`) format**, which is exactly what GitHub uses. I can rewrite it in a **clean GitHub-ready Markdown** version with headings, code blocks, and proper formatting so you can directly paste it into your `README.md`. Here’s the full version:
-
-```markdown
 # RAPL Web Testing Automation
 
 ## 🚀 Overview
